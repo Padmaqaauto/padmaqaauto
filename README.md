@@ -1,100 +1,48 @@
 # Hi, I'm Padmavathy 👋
 
-### Senior QA Automation Engineer | Playwright | Selenium | Appium | API Testing
+### QA Lead | Test Automation | Playwright · Selenium · Appium | API Testing
 
-I'm a **QA Automation Engineer with 7+ years of experience** in software quality assurance and test automation. I specialize in designing and maintaining reliable automation solutions for web and API applications.
-
-I enjoy exploring modern test automation practices, improving test coverage, and building maintainable frameworks that support fast and reliable software delivery.
+I'm a **QA professional with 7+ years of experience** in test automation and quality assurance across web, mobile and API applications. I design reliable, maintainable automation frameworks, lead and mentor QA engineers, and care about shipping quality software quickly.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🔹 7+ years of experience in **Software Testing & QA Automation**
-* 🔹 Experienced in **Web, API and Mobile Test Automation**
-* 🔹 Strong experience with **Playwright and Selenium**
-* 🔹 Working with **Java, JavaScript, Typescript and API testing**
-* 🔹 Exploring **Playwright with TypeScript**
-* 🔹 Interested in **CI/CD and test automation engineering**
-* 🔹 ISTQB Foundation Level certified
-* 🔹 Experienced in **QA leadership, mentoring and improving test coverage**
+- 🔹 7+ years in **Software Testing & QA Automation**
+- 🔹 **Web, mobile and API** test automation
+- 🔹 Hands-on with **Playwright, Selenium and Appium**
+- 🔹 Working in **Java, C#, Python, JavaScript and TypeScript**
+- 🔹 Experience testing **data pipelines** (SQL, Kafka, Databricks)
+- 🔹 **QA leadership and mentoring**: coaching engineers and improving test coverage
+- 🔹 ISTQB Foundation Level certified, continuing with further ISTQB certifications
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Test Automation
-
-* Playwright
-* Selenium
-* Appium
-* Cucumber / BDD
-* Page Object Model
-* API Automation
-
-### Programming
-
-* Java
-* JavaScript
-* TypeScript
-
-### API Testing
-
-* REST API
-* OpenAPI / Swagger
-* APIRequestContext
-* JSON Schema Validation
-* AJV
-
-### Version Control & CI/CD
-
-* Git
-* GitHub
-* GitHub Actions
-
-### Testing Practices
-
-* Functional Testing
-* Regression Testing
-* API Testing
-* End-to-End Testing
-* Integration Testing
-* Test Automation Framework Design
-* BDD
+| Area | Tools & Technologies |
+|---|---|
+| **UI / Mobile automation** | Playwright, Selenium, Appium, Cucumber / BDD, Page Object Model |
+| **API testing** | REST, OpenAPI / Swagger, Playwright APIRequestContext, JSON Schema validation (AJV) |
+| **Languages** | Java, C#, Python, JavaScript, TypeScript, SQL |
+| **Data & messaging** | Kafka, Databricks |
+| **CI/CD & version control** | Git, GitHub, GitHub Actions |
+| **Practices** | Functional, regression, integration and end-to-end testing, framework design, BDD |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 API Automation Portfolio
+### 🔹 [API Automation Portfolio](https://github.com/Padmaqaauto/API-automation-portfolio)
+**Playwright · JavaScript · Cucumber**
+BDD-based test automation framework with Page Object Model, reusable components, endpoint management, test data handling, schema validation, parallel execution and HTML reporting.
 
-**Playwright + JavaScript + Cucumber**
+### 🔹 [Java Fundamentals](https://github.com/Padmaqaauto/Java-Fundamentals)
+**Java**
+Practice and coding assignments that build the Java foundation behind test automation and test development.
 
-An API automation project demonstrating BDD-based API testing, reusable test components, endpoint management, test data handling and schema validation.
-
-🔗 [View API Automation Portfolio](https://github.com/Padmaqaauto/API-automation-portfolio)
-
----
-
-### 🔹 Git & GitHub Practice
-
-A hands-on repository created to strengthen my Git and GitHub knowledge through practical exercises.
-
-Topics include:
-
-* Git configuration
-* Repository creation
-* Branching
-* Commit & push
-* Pull Requests
-* Merging
-* Tags
-* Releases
-* `.gitignore`
-* Forking and cloning
-* Working with different versions
-
-🔗 [View GitHub Practice](https://github.com/Padmaqaauto/github-workshop-practice)
+### 🔹 [Git & GitHub Practice](https://github.com/Padmaqaauto/github-workshop-practice)
+Hands-on exercises covering branching, pull requests, merging, tags, releases, forking and `.gitignore`.
 
 ---
 
@@ -102,14 +50,12 @@ Topics include:
 
 > **"Build reliable automation. Improve quality. Keep learning."**
 
-I enjoy solving testing challenges, creating reusable automation solutions, learning new technologies, and sharing practical knowledge with other QA professionals.
+Solving testing challenges, building reusable automation, mentoring others and sharing practical knowledge with the QA community.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with **QA Engineers, SDETs, Automation Engineers and technology professionals** to learn, collaborate and share knowledge.
+I'd love to connect with **QA Engineers, SDETs, Automation Engineers and technology professionals** to learn and collaborate.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/padmavathy-s-041176179/)
-
-🔗 [GitHub](https://github.com/Padmaqaauto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Padmavathy_S-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmavathy-s-041176179/)
