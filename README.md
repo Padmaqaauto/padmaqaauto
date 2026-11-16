@@ -1,6 +1,6 @@
 # Hi, I'm Padmavathy 👋
 
-### QA Lead | Test Automation | Playwright · Selenium · Appium | API Testing
+### QA Lead | Test Automation | Playwright · Selenium · Appium | API Testing| ISTQB Certified
 
 I'm a **QA professional with 7+ years of experience** in test automation and quality assurance across web, mobile and API applications. I design reliable, maintainable automation frameworks, lead and mentor QA engineers, and care about shipping quality software quickly.
 
